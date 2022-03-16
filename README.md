@@ -1,6 +1,6 @@
 ## Olá, eu sou a Tauana!
-- 💻 Estou iniciando na carreira de dev
-- 🌱 I’m currently learning  Ja
+- 💻 Estou iniciando na carreira de Dev
+- 📚 I’m currently learning  Java,  HTML e CSS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ..
 - 💬 Ask me about ...
